@@ -9,7 +9,7 @@ Good luck! (Average score is 83% so try to beat that!)
 
 ## Game in Action
 
-![2019-10-03 15 48 38](https://user-images.githubusercontent.com/32349614/66166805-8acdc480-e5f5-11e9-86fd-b81df5213320.gif)
+![2019-10-03 15 51 38](https://user-images.githubusercontent.com/32349614/66166940-ebf59800-e5f5-11e9-8b31-6d996ba4f293.gif)
 
 ## Setup Instructions
 
